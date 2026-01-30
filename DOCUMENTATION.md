@@ -522,17 +522,3 @@ dask_df.visualize('graph.png')
 - Faulty data causing exceptions
 - Network issues in distributed setup
 
----
-
-## Additional Resources
-
-- [Dask Documentation](https://docs.dask.org/)
-- [Best Practices Guide](https://docs.dask.org/en/latest/best-practices.html)
-- [Performance Tips](https://docs.dask.org/en/latest/debugging-performance.html)
-- [API Reference](https://docs.dask.org/en/latest/api.html)
-
----
-
-**Document Version:** 1.0  
-**Last Updated:** January 2026  
-**Maintained by:** Your Name
